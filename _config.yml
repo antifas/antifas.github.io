@@ -47,8 +47,6 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Início
   url: /
-- title: Sobre
-  url: /Sobre.html
 - title: Músicas
   url: /musicas/
 # - title: Agenda
@@ -77,11 +75,9 @@ exclude:
 - README.md
 - CODE_OF_CONDUCT.md
 - CONTRIBUTING.md
-- screenshot.png
 - LICENSE
 - CNAME
 - Gemfile
 - Gemfile.lock
 - alembic-jekyll-theme.gemspec
 - .jekyll-cache
-

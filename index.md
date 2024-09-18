@@ -1,12 +1,11 @@
 ---
 title:
+layout: default
 feature_text:
 feature_image: "imgs/banda.jpg"
-#excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 aside: false
 ---
 
-{% include figure.html image="/imgs/index.jpg" alt="Início" %}
 
 <blockquote>
 Antifas! é uma força incendiária que surge dos subterrâneos do cenário underground, para desafiar e confrontar. Com Z de Deus no baixo e voz, Flávio Schiavoni nas guitarras, voz e percussão, e Fábio Almeida na bateria, se tornam uma trindade sonora do caos.
