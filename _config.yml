@@ -49,6 +49,8 @@ navigation_header:
   url: /
 - title: Músicas
   url: /musicas.html
+- title: Contato
+  url: /contato.html
 # - title: Agenda
 #   url: /agenda/
 # - title: Blog
