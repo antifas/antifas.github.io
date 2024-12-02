@@ -38,11 +38,8 @@
 
     {% if site.favicons or site.avatarurl %}{% include site-favicons.html %}{% endif %}
 
-    {% if site.google_analytics %}{% include site-analytics.html %}{% endif %}
-
     {% include site-fonts.html %}
 
-    {% include site-before-start.html %}
   </head>
 
   <body class="layout-{{ page.layout }}{% if page.title %}  {{ page.title | slugify }}{% endif %}">
@@ -56,12 +53,6 @@
     {{ content }}
 
 </main>
-
 {% include site-footer.html %}
-
-    {% if site.service_worker != false %}{% include site-sw.html %}{% endif %}
-
-    {% include site-before-end.html %}
-  </body>
-
+</body>
 </html>
