@@ -1,9 +1,26 @@
 
+
 collections:
-  musicas:
-    title: Músicas # Needed for Siteleaf
+  musicas_disco2:
+    title: A Arte de não fazer sentido # Needed for Siteleaf
     output: true
     order:
+      - Ficha Técnica.md
+      - 31 de janeiro.md
+      - Pra quem o sol nasce.md
+      - Maconha.md
+      - Davi e Golias.md
+      - A arte de não fazer sentido.md
+      - Minas Gerais.md
+      - 1811.md
+      - Se não gosta de mim.md
+      - Zé Qualquer.md
+      - 15 segundos.md
+  musicas_disco1:
+    title: Proibido atirar nos músicos # Needed for Siteleaf
+    output: true
+    order:
+      - Ficha Técnica.md
       - Homofobia É Vômito no Chão.md
       - Help Brazil.md
       - Bacurau.md
@@ -17,7 +34,6 @@ collections:
       - Cuzão.md
       - Mão na Cara.md
       - Eu Me Demito.md
-
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
@@ -49,22 +65,14 @@ navigation_header:
   url: /
 - title: Músicas
   url: /musicas.html
+- title: Release
+  url: /release.html
 - title: Contato
   url: /contato.html
-# - title: Agenda
-#   url: /agenda/
-# - title: Blog
-#   url: /blog/
-# - title: Quem somos
-#   url: /membros/
-# - title: Busca
-#   url: /search/
-# - title: Créditos
-#   url: /creditos/
 
 navigation_footer:
 - title: Créditos
-  url: /creditos/
+  url: /creditos.html
 
 social_links:
   Instagram: https://www.instagram.com/ant1fas/

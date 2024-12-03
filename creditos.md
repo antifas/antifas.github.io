@@ -1,11 +1,10 @@
 ---
 title: Créditos
-layout: default
+layout: page
 indexing: false
 sitemap: false
+feature_image: "imgs/creditos.jpg"
 ---
-
-{% include figure.html image="/imgs/creditos.jpg" alt="Créditos" %}
 
 * Template JeKyll Alembic https://github.com/daviddarnes/alembic
 * Desenvolvido por Flávio Schiavoni

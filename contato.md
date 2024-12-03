@@ -1,6 +1,6 @@
 ---
 title: Contato
-layout: default
+layout: page
 feature_image: "imgs/banda.jpg"
 ---
 

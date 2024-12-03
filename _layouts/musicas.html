@@ -18,9 +18,18 @@ layout: default
 <aside class="aside  typeset  aside--left">
     <section class="section  section--category-index">
 	<nav class="nav  nav--categories">
+	A Arte de não fazer sentido
+	  <ul class="list  list--categories">
+	   {% for item in site.musicas_disco2 %}
+	       {% assign name = item.path | split:"/" | last | split:"." | first %}
+	      <li class="item  item--category">
+		<a href="{{ item.url }}">{{ name }}</a>
+	      </li>
+	      {% endfor %}
+	  </ul>
 	Proibido atirar nos músicos
 	  <ul class="list  list--categories">
-	   {% for item in site.musicas %}
+	   {% for item in site.musicas_disco1 %}
 	       {% assign name = item.path | split:"/" | last | split:"." | first %}
 	      <li class="item  item--category">
 		<a href="{{ item.url }}">{{ name }}</a>
@@ -29,5 +38,6 @@ layout: default
 	  </ul>
 	</nav>
     </section>
+
 </aside>
 
