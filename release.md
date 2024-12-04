@@ -1,7 +1,7 @@
 ---
 title: Release
 layout: page
-feature_image: "imgs/banda.jpg"
+feature_image: "imgs/2.jpg"
 ---
 
 Antifas! – A Arte de Não Fazer Sentido

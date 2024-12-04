@@ -2,7 +2,7 @@
 title:
 layout: page
 feature_text:
-feature_image: "imgs/banda.jpg"
+feature_image: "imgs/1.jpg"
 aside: false
 ---
 

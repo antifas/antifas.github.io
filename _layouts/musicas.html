@@ -20,7 +20,7 @@ layout: default
 	<nav class="nav  nav--categories">
 	A Arte de não fazer sentido
 	  <ul class="list  list--categories">
-	   {% for item in site.musicas_disco2 %}
+	   {% for item in site.letras_disco2 %}
 	       {% assign name = item.path | split:"/" | last | split:"." | first %}
 	      <li class="item  item--category">
 		<a href="{{ item.url }}">{{ name }}</a>
@@ -29,7 +29,7 @@ layout: default
 	  </ul>
 	Proibido atirar nos músicos
 	  <ul class="list  list--categories">
-	   {% for item in site.musicas_disco1 %}
+	   {% for item in site.letras_disco1 %}
 	       {% assign name = item.path | split:"/" | last | split:"." | first %}
 	      <li class="item  item--category">
 		<a href="{{ item.url }}">{{ name }}</a>

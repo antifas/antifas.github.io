@@ -1,7 +1,7 @@
 
 
 collections:
-  musicas_disco2:
+  letras_disco2:
     title: A Arte de não fazer sentido # Needed for Siteleaf
     output: true
     order:
@@ -16,7 +16,7 @@ collections:
       - Se não gosta de mim.md
       - Zé Qualquer.md
       - 15 segundos.md
-  musicas_disco1:
+  letras_disco1:
     title: Proibido atirar nos músicos # Needed for Siteleaf
     output: true
     order:
