@@ -77,9 +77,10 @@ navigation_footer:
 social_links:
   Instagram: https://www.instagram.com/ant1fas/
   Youtube: https://www.youtube.com/@tvantifas4250
-  link: https://www.antifas.com.br
   TikTok: https://www.tiktok.com/@antifasband
   Spotify: https://open.spotify.com/intl-pt/artist/0burhqaWUPZLu4BeKD6PKs
+  Email: antifasband@gmail.com
+  link: https://www.antifas.com.br
 
 exclude:
 - README.md

@@ -4,20 +4,18 @@ layout: page
 feature_image: "imgs/banda.jpg"
 ---
 
+<ul>
+{% for link in site.social_links %}
+{% if link[1] != blank %}
+{% assign id = link[0] | downcase %}
+<a href="{{ link[1] }}">
+<li>
+{% include icon.html id=id title=id %}
+{{ id }} - {{ link[1] }}
+</li>
+</a>
+{% endif %}
+{% endfor %}
+</ul>
 
 
-
-
-social_links: 
-
-
-* Instagram: https://www.instagram.com/ant1fas/
-* Youtube: https://www.youtube.com/@tvantifas4250
-* link: https://www.antifas.com.br
-* TikTok: https://www.tiktok.com/@antifasband
-* Spotify: https://open.spotify.com/intl-pt/artist/0burhqaWUPZLu4BeKD6PKs
-* email: antifasband@gmail.com
-  
-  
-  
-Fale conosco!
