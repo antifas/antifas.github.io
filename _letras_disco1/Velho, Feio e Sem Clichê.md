@@ -6,7 +6,7 @@ feature_image: "/imgs/14.jpg"
 video: bMF_PCd0Sh0
 ---
 (Letra e música: Z de Deus)
-
+Bb F Bb F Bb F Eb
 Harmonizou, treinou pra ser mais um
 Implantou o que não tinha lá
 Se maquiou pra sair do comum
@@ -17,5 +17,7 @@ Me satisfaço com aquilo que é meu
 A ditadura não alcança o patamar
 De quem sabe ser feliz sem se culpar
 
+C          Bb 
 Quero ver você vir concorrer
+Dm                C
 Pois sou velho, feio e sem clichê
