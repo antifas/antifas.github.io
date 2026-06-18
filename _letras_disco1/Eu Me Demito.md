@@ -7,14 +7,20 @@ video: p4fAQ5nQNR8
 ---
 (Letra e Música: Z de Deus)
 
+E C#m
 Quando a bomba estoura
 Nada vem, nada vai, tudo aconteceu
 Quando a bomba estoura
 Quem me vem não me traz o que esqueceu
 
+B
+E F#
 Eu não quero mais
+B
 Eu me demito!
+E F#
 Porque eu não tenho paz
+B
 Eu me demito!
 
 Quando a grana explora
@@ -27,4 +33,5 @@ Eu me demito!
 Porque eu não tenho paz
 Eu me demito!
 
+E D Bb
 Quem pagou, levou...
