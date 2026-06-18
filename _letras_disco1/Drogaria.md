@@ -6,13 +6,17 @@ feature_image: "/imgs/4.jpg"
 video: UWMV5fWAI8U
 ---
 (Letra: Z de Deus/Música: Kblo)
-
+A C G E G 
 Precisa de remédio pra dormir
 Precisa de remédio pra acordar
 Remédio para redimir
 Remédio pra cagar
 
+D# D D# D D# D D
+
+A C G D# D C
 E a polícia prende a minha erva
+A C G D# D C
 E a polícia prende a minha erva
 
 Precisa de remédio pra sorrir
@@ -23,6 +27,7 @@ Precisa de remédio pra estudar
 E a polícia prende a minha erva
 E a polícia prende a minha erva
 
+A
 A drogaria vai abrir
 Mais uma loja pra iludir
 O seu doutor vai receitar
