@@ -7,7 +7,9 @@ video: yR5VFRb0AVM
 ---
 (Letra e Música: Z De Deus)
 
+Em
 Napoleão, Átila o Huno
+                             C
 Herodes o Rei, Vladimir Putin
 
 Muamar al-Gadahfi
@@ -22,4 +24,5 @@ Gengis Kan, Roger Moreira
 Digão Raimundos
 Joseph Gobbels
 
+G C G C
 Tem Messias Genocida!
