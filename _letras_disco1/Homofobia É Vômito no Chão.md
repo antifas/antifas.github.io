@@ -7,13 +7,23 @@ video: w8ty2RqPPys
 ---
 (Letra e música: Z de Deus)
 
+Bm 
+Homofobia é Vômito no chão
+
+Bm D A A
 Nazista se cura na porrada
-Fascista se conserta na paulada
+Fascista se conserta com paulada
 Machista se ajeita em safanão
 Homofobia é chave de prisão
 
+D       A
 Nazista é na porrada
 Fascista é na paulada
 Machista no safanão
-
+D C A
 Homofobia é vômito no chão
+Homofobia é vômito no chão
+Homofobia é vômito no chão
+
+Bm
+Chão, chão, chão, chão
