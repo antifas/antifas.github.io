@@ -7,11 +7,19 @@ video: El0O4ViTtm4
 ---
 (Letra e música: Z de Deus)
 
+C A
 Livre, um povo livre
 Não enche a cadeia de irmão;
 Cachaça tem mais perigo
 A lei dispara em contradição 
 
+E D   A
+Maconha!
+E D
+Maco
+E D
+Maco
+E D   A
 Maconha!
 
 Pra relaxar, pra liberar 
