@@ -3,7 +3,7 @@ title: Zé Qualquer
 disco: A Arte de não fazer sentido
 layout: musicas
 feature_image: "/imgs/5.jpg"
-video: m90oQuR9-CM
+video: nqphS7R2d2s
 ---
 (Letra e música: Z de Deus)
 
