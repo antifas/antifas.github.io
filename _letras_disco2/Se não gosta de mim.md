@@ -7,7 +7,7 @@ video: KiUjvYipOjE
 ---
 (Letra e música: Z de Deus)
 
-Dm                     F
+F                     Dm
 Se não gosta de mim, fodasse!
 Mas se não gosta de mim, fodasse
 
@@ -23,9 +23,9 @@ C                     Am
 Cagar e andar é a mais nova revolução 
 
 
-Dm                     F
+F                     Dm
 Se não gosta de mim, fodasse
-Dm                     F
+F                     Dm
 Mas se não gosta de mim, fodasse
 
 Fodasse!
