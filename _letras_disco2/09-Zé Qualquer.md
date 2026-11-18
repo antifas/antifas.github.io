@@ -4,6 +4,7 @@ disco: A Arte de não fazer sentido
 layout: musicas
 feature_image: "/imgs/5.jpg"
 video: nqphS7R2d2s
+mp3: assets/Disco2/09-Ze qualquer.mp3
 ---
 (Letra e música: Z de Deus)
 
