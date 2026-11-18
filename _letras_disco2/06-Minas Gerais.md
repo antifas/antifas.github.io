@@ -4,6 +4,7 @@ disco: A Arte de não fazer sentido
 layout: musicas
 feature_image: "/imgs/1.jpg"
 video: hj4uzGueF5k
+mp3: assets/Disco2/06-minas gerais.mp3
 ---
 (Letra e música: Z de Deus)
 
