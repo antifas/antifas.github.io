@@ -4,21 +4,31 @@ disco: A Arte de não fazer sentido
 layout: musicas
 feature_image: "/imgs/2.jpg"
 video: 0nK9p-4K0Yo
+mp3: assets/Disco2/02-Pra quem o sol nasce.mp3
 ---
 (Letra e música: Z de Deus)
 
+D
 Pra quem o sol nasceu de manhã?
 O excluído gritou pra viver
+Bm                          D
 Quem sofreu se martirizou
 
+D
 Pra quem o sol nasceu de manhã?
 Todo patrão quer se entreter
+Bm                        D
 Quem colheu não se alimentou
 
+G                       Bm
 A grande roda passa em cima 
+          D
 Se não aceitar, aceitar!
+G                   Bm
 A engrenagem tem rotina
+         D
 Até te matar, matar, matar!
+
 
 Pra quem o sol nasceu de manhã?
 O velho índio rezou para ver
