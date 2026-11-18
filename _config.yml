@@ -6,16 +6,16 @@ collections:
     output: true
     order:
       - Ficha Técnica.md
-      - 31 de janeiro.md
-      - Pra quem o sol nasce.md
-      - Maconha.md
-      - Davi e Golias.md
-      - A arte de não fazer sentido.md
-      - Minas Gerais.md
-      - 1811.md
-      - Se não gosta de mim.md
-      - Zé Qualquer.md
-      - 15 segundos.md
+      - 01-31 de janeiro.md
+      - 02-Pra quem o sol nasce.md
+      - 03-Maconha.md
+      - 04-Davi e Golias.md
+      - 05-A arte de não fazer sentido.md
+      - 06-Minas Gerais.md
+      - 07-1811.md
+      - 08-Se não gosta de mim.md
+      - 09-Zé Qualquer.md
+      - 10-15 segundos.md
   letras_disco1:
     title: Proibido atirar nos músicos # Needed for Siteleaf
     output: true
