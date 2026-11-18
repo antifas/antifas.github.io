@@ -17,15 +17,15 @@ aside: false
 
 <ul id="playlist">
 <li class="selected" data-ogg="assets/Arte/01-31 de janeiro.mp3">31 de janeiro</li>  
-<li data-ogg="assets/Arte/02-Pra quem o sol nasce.mp3">Pra quem o sol nasce</li>  
-<li data-ogg="assets/Arte/03-Maconha.mp3">Maconha</li>  
-<li data-ogg="assets/Arte/04-Davi e golias.mp3">Davi e golias</li>  
-<li data-ogg="assets/Arte/05-A arte de não fazer sentido.mp3">A arte de não fazer sentido</li>  
-<li data-ogg="assets/Arte/06-minas gerais.mp3">minas gerais</li>  
-<li data-ogg="assets/Arte/07-1811.mp3">1811</li>  
-<li data-ogg="assets/Arte/08-se n gosta de mim.mp3">se n gosta de mim</li>  
-<li data-ogg="assets/Arte/09-Ze qualquer.mp3">Ze qualquer</li>  
-<li data-ogg="assets/Arte/10-15 segundos.mp3">15 segundos</li>  
+<li data-ogg="assets/Disco2/02-Pra quem o sol nasce.mp3">Pra quem o sol nasce</li>  
+<li data-ogg="assets/Disco2/03-Maconha.mp3">Maconha</li>  
+<li data-ogg="assets/Disco2/04-Davi e golias.mp3">Davi e golias</li>  
+<li data-ogg="assets/Disco2/05-A arte de não fazer sentido.mp3">A arte de não fazer sentido</li>  
+<li data-ogg="assets/Disco2/06-minas gerais.mp3">minas gerais</li>  
+<li data-ogg="assets/Disco2/07-1811.mp3">1811</li>  
+<li data-ogg="assets/Disco2/08-se n gosta de mim.mp3">se n gosta de mim</li>  
+<li data-ogg="assets/Disco2/09-Ze qualquer.mp3">Ze qualquer</li>  
+<li data-ogg="assets/Disco2/10-15 segundos.mp3">15 segundos</li>  
 </ul>
 
 <button id="stop">Play/Pause</button>
