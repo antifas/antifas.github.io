@@ -4,6 +4,7 @@ disco: A Arte de não fazer sentido
 layout: musicas
 feature_image: "/imgs/20.jpg"
 video: PdmdbV5EV2I
+mp3: assets/Disco2/03-Maconha.mp3
 ---
 (Letra e música: Z de Deus)
 
