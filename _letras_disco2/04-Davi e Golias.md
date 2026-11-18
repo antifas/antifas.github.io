@@ -4,6 +4,7 @@ disco: A Arte de não fazer sentido
 layout: musicas
 feature_image: "/imgs/4.jpg"
 video: rpVtij-tRVQ
+mp3: assets/Disco2/04-Davi e golias.mp3
 ---
 (Letra e música: Z de Deus)
 
