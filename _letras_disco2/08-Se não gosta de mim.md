@@ -4,6 +4,7 @@ disco: A Arte de não fazer sentido
 layout: musicas
 feature_image: "/imgs/3.jpg"
 video: KiUjvYipOjE
+mp3: assets/Disco2/08-se n gosta de mim.mp3
 ---
 (Letra e música: Z de Deus)
 
