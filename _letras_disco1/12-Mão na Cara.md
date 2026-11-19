@@ -4,6 +4,7 @@ disco: Proibido atirar nos músicos
 layout: musicas
 feature_image: "/imgs/10.jpg"
 video: ybRWJ_NxVHU
+mp3: assets/Disco1/12-Mão na Cara.mp3
 ---
 (Letra e música: Z de Deus)
 
