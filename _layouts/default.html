@@ -39,43 +39,6 @@
     {% if site.favicons or site.avatarurl %}{% include site-favicons.html %}{% endif %}
 
     {% include site-fonts.html %}
-
-  <style>
-/* Menu lateral à esquerda */
-aside {
-  padding: 20px;
-  border-right: 1px solid #333;
-  position: sticky; /* Mantém o menu visível ao rolar a página */
-  top: 0;
-  height: 100vh;
-  overflow-y: auto; /* Permite rolar a lista de músicas se ela for muito longa */
-}
-
-/* Parte principal à direita */
-.content {
-  padding: 30px 40px;
-}
-
-/* Adaptação para celulares (empilha um abaixo do outro) */
-@media (max-width: 768px) {
-  .container {
-    grid-template-columns: 1fr;
-  }
-
-  aside {
-    position: static;
-    height: auto;
-    border-right: none;
-    border-top: 1px solid #333;
-    order: 2; /* Coloca a lista de músicas abaixo da letra no celular */
-  }
-
-  .content {
-    order: 1; /* Prioriza a letra no topo da tela no celular */
-    padding: 20px;
-  }
-}
-  </style>
   </head>
 
   <body class="layout-{{ page.layout }}{% if page.title %}  {{ page.title | slugify }}{% endif %}">
