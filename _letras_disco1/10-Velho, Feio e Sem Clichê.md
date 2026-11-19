@@ -4,6 +4,7 @@ disco: Proibido atirar nos músicos
 layout: musicas
 feature_image: "/imgs/14.jpg"
 video: bMF_PCd0Sh0
+mp3: assets/Disco1/10-Velho, Feio e Sem Clichê.mp3
 ---
 (Letra e música: Z de Deus)
 Bb F Bb F Bb F Eb
