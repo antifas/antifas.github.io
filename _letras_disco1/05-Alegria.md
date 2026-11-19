@@ -4,6 +4,7 @@ disco: Proibido atirar nos músicos
 layout: musicas
 feature_image: "/imgs/1.jpg"
 video: b7BcsrfLCXE
+mp3: assets/Disco1/05-Alegria.mp3
 ---
 (Letra e música: Z de Deus)
 D G A
