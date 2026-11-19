@@ -4,6 +4,7 @@ disco: Proibido atirar nos músicos
 layout: musicas
 feature_image: "/imgs/9.jpg"
 video: w8ty2RqPPys
+mp3: assets/Disco1/01-Homofobia É Vômito no Chão.mp3
 ---
 (Letra e música: Z de Deus)
 
