@@ -4,6 +4,7 @@ disco: Proibido atirar nos músicos
 layout: musicas
 feature_image: "/imgs/4.jpg"
 video: UWMV5fWAI8U
+mp3: assets/Disco1/07-Drogaria.mp3
 ---
 (Letra: Z de Deus/Música: Kblo)
 A C G E G 
