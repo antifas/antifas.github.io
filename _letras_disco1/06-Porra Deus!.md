@@ -4,6 +4,7 @@ disco: Proibido atirar nos músicos
 layout: musicas
 feature_image: "/imgs/12.jpg"
 video: X2Vl01zYctU
+mp3: assets/Disco1/06-Porra Deus!.mp3
 ---
 (Letra e Música: Z de Deus)
 
