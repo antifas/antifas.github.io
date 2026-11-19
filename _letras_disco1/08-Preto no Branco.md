@@ -4,6 +4,7 @@ disco: Proibido atirar nos músicos
 layout: musicas
 feature_image: "/imgs/13.jpg"
 video: 3BeBVBlm90M
+mp3: assets/Disco1/08-Preto no Branco.mp3
 ---
 (Letra e Música: Z de Deus)
 
