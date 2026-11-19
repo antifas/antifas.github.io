@@ -4,6 +4,7 @@ disco: Proibido atirar nos músicos
 layout: musicas
 feature_image: "/imgs/2.jpg"
 video: 4mAhszaLFVk
+mp3: assets/Disco1/03-Bacurau.mp3
 ---
 (Letra e Música: Z de Deus)
 C G D A
