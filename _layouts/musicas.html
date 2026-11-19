@@ -1,12 +1,56 @@
 ---
 layout: default
 ---
+  <style>
+/* Menu lateral à esquerda */
+aside {
+  padding: 20px;
+  border-right: 1px solid #333;
+  position: sticky; /* Mantém o menu visível ao rolar a página */
+  top: 0;
+  height: 100vh;
+  overflow-y: auto; /* Permite rolar a lista de músicas se ela for muito longa */
+}
+
+/* Parte principal à direita */
+.content {
+  padding: 30px 40px;
+}
+
+/* Adaptação para celulares (empilha um abaixo do outro) */
+@media (max-width: 768px) {
+  .container {
+    grid-template-columns: 1fr;
+  }
+
+  aside {
+    position: static;
+    height: auto;
+    border-right: none;
+    border-top: 1px solid #333;
+    order: 2; /* Coloca a lista de músicas abaixo da letra no celular */
+  }
+
+  .content {
+    order: 1; /* Prioriza a letra no topo da tela no celular */
+    padding: 20px;
+  }
+}
+  </style>
+
+
 <header class="sidebar">
-{% include musicas-nav.html %} 
+	A Arte de não fazer sentido
+	  <ul class="list  list--categories">
+	   {% for item in site.letras_disco2 %}
+	       {% assign name = item.path | split:"/" | last | split:"." | first %}
+	      <li class="item  item--category">
+		<a href="{{ item.url }}">{{ name }}</a>
+	      </li>
+	      {% endfor %}
+	  </ul>
 </header>
-
-  <section class="content">
-
+<section class="content">
     <article class="article  article--page  typeset">
       {% include video.html id=page.video title="Siteleaf tutorial video" %}
       <h1></h1>
@@ -14,5 +58,5 @@ layout: default
 {{ page.title }}	
 {{ content }}
 	</pre>
-    </article>
-  </section>
+   </article>
+</section>
