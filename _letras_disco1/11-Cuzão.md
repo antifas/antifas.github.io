@@ -4,6 +4,7 @@ disco: Proibido atirar nos músicos
 layout: musicas
 feature_image: "/imgs/3.jpg"
 video: bybEkj5Jm-w
+mp3: assets/Disco1/11-Cuzão.mp3
 ---
 (Letra: Z de Deus/Música: Antifas!)
 
