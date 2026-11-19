@@ -5,7 +5,6 @@ collections:
     title: A Arte de não fazer sentido # Needed for Siteleaf
     output: true
     order:
-      - Ficha Técnica.md
       - 01-31 de janeiro.md
       - 02-Pra quem o sol nasce.md
       - 03-Maconha.md
@@ -16,24 +15,25 @@ collections:
       - 08-Se não gosta de mim.md
       - 09-Zé Qualquer.md
       - 10-15 segundos.md
+      - Ficha Técnica.md
   letras_disco1:
     title: Proibido atirar nos músicos # Needed for Siteleaf
     output: true
     order:
+      - 01-Homofobia É Vômito no Chão.md
+      - 02-Help Brazil.md
+      - 03-Bacurau.md
+      - 04-Homens de Bem.md
+      - 05-Alegria.md
+      - 06-Porra Deus!.md
+      - 07-Drogaria.md
+      - 08-Preto no Branco.md
+      - 09-Nunca Vai Entrar.md
+      - 10-Velho, Feio e Sem Clichê.md
+      - 11-Cuzão.md
+      - 12-Mão na Cara.md
+      - 13-Eu Me Demito.md
       - Ficha Técnica.md
-      - Homofobia É Vômito no Chão.md
-      - Help Brazil.md
-      - Bacurau.md
-      - Homens de Bem.md
-      - Alegria.md
-      - Porra Deus!.md
-      - Drogaria.md
-      - Preto no Branco.md
-      - Nunca Vai Entrar.md
-      - Velho, Feio e Sem Clichê.md
-      - Cuzão.md
-      - Mão na Cara.md
-      - Eu Me Demito.md
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
