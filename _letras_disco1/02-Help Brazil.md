@@ -4,6 +4,7 @@ disco: Proibido atirar nos músicos
 layout: musicas
 feature_image: "/imgs/7.jpg"
 video: onynarTeIgk
+mp3: assets/Disco1/02-Help Brazil.mp3
 ---
 (Letra: Z de Deus Música: Z de Deus/Kblo)
 
