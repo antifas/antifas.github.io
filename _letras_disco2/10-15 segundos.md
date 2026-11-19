@@ -3,7 +3,7 @@ title: 15 segundos
 disco: A Arte de não fazer sentido
 layout: musicas
 feature_image: "/imgs/15.jpg"
-video: rppkuvmwRt4
+video: w-aOyWAu1Jo
 mp3: assets/Disco2/10-15 segundos.mp3
 ---
 (Letra e música: Z de Deus)
